@@ -24,7 +24,7 @@ available_regions:
 image: https://assets.artifakt.io/artifacts/quickstart-artifact.png
 category: quickstart
 main_language: html_css
-licence:
+license:
    code: mit
    name: MIT
 tags:
