@@ -40,7 +40,7 @@ infrastructure:
     monthly_price: 0.04  #in dollars per month 
     details: calculated for 5K Get request per month and used space under 1Go in Ireland 
 
-inputs:	
+inputs:
   - 
     code: bucket_name
     name: Bucket name
